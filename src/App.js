@@ -4,6 +4,8 @@ import axios from 'axios';
 import Container from 'react-bootstrap/Container';
 import Carousel from 'react-bootstrap/Carousel';
 
+// What's up with this?
+
 class App extends React.Component {
   constructor(props){
     super(props);
